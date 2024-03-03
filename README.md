@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasklaue" alt="nicolasklaue" /></a> </p>
 
-- 🔭 I’m currently working on **Praclesio**
+- 🔭 I’m currently working on **Paraclesio**
 
 - 🌱 I’m currently learning **React, Next, Supabase**
 

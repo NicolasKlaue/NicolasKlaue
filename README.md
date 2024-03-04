@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasklaue&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasklaue" /> </p>
 -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasklaue" alt="nicolasklaue" /></a> </p>
-<img src= "https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">
+<img src= "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/641c2b170466977.645e34a7760bf.gif">
 
 - 🔭 I’m currently working on **Paraclesio**
 

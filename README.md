@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolás Klaue</h1>
 <h3 align="center">A very hardworking data analyst and engineer from Spain</h3>
-<img src= "https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif">
+<img align="center" src= "https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif">
 
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasklaue&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasklaue" /> </p>

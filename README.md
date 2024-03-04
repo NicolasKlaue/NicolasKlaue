@@ -1,10 +1,11 @@
+<img src= "https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif">
 <h1 align="center">Hi 👋, I'm Nicolás Klaue</h1>
 <h3 align="center">A very hardworking data analyst and engineer from Spain</h3>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasklaue&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasklaue" /> </p>
 -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasklaue" alt="nicolasklaue" /></a> </p>
-<img src= "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/641c2b170466977.645e34a7760bf.gif">
+
 
 - 🔭 I’m currently working on **Paraclesio**
 

@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasklaue" alt="nicolasklaue" /></a> </p>
 
 
-- 🔭 I’m currently working on **Celonis**
+- 🚀 I’m currently working at **Celonis**
 
 - 🌱 I’m currently learning **React, Next, Supabase**
 

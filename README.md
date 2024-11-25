@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-daniel-k/">< LinkedIn/a>
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-daniel-k/"> LinkedIn </a>
   <a href="emailto:klaue.nico@gmail.com">Email</a>
 </p>
 
